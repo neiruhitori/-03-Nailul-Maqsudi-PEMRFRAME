@@ -28,18 +28,18 @@
 ![Screenshot Praktikum 1](./screenshots/tugas1.jpg)
 
 ### 2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.
-**kode users.js**
+**kode users.js ============================================================================**
 ![Screenshot Praktikum 1](./screenshots/tugas1_1.jpg)
-**kode id.js**
+**kode id.js ===============================================================================**
 ![Screenshot Praktikum 1](./screenshots/tugas1_2.jpg)
 ![Screenshot Praktikum 1](./screenshots/tugas1_3.jpg)
-**Hasil pada halaman users**
+**Hasil pada halaman users =================================================================**
 ![Screenshot Praktikum 1](./screenshots/tugas1_4.jpg)
 ![Screenshot Praktikum 1](./screenshots/tugas1_5.jpg)
 
 
 ### 3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
-**Kode weather.js**
+**Kode weather.js ==========================================================================**
 ![Screenshot Praktikum 1](./screenshots/tugas2_1.jpg)
 ![Screenshot Praktikum 1](./screenshots/tugas2_2.jpg)
 **Kode api\weather.js dan disitu untuk apikey saya hidden menggunakan .env demi keamanan**
