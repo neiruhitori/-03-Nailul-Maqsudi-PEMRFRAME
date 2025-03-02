@@ -16,6 +16,10 @@ const HomePage = () => {
       <Link href="/users" legacyBehavior>
         <a>User</a>
       </Link>
+      <br />
+      <Link href="/weather" legacyBehavior>
+        <a>Weather</a>
+      </Link>
     </div>
   ); 
 }; 
